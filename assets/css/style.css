@@ -80,3 +80,13 @@ form button:active {
     text-align: center;
     border-radius: 20px;
 }
+
+.cor-erro {
+    background: rgb(255, 0, 0);
+    color: #ffffff;
+}
+
+.cor-positivo {
+    background: rgb(4, 82, 4);
+    color: #ffffff;
+}
